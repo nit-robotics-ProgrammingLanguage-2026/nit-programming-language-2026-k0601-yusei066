@@ -13,5 +13,5 @@ int main(void)
         }
         printf("%ld\n", num);
     }
-    return 0;/* TODO: n が負なら NG、そうでなければ 1+2+...+n を for 文で計算して表示 */
+    return 0;
 }
